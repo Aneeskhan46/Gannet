@@ -35,6 +35,11 @@ Men & women footwear's & accessories such as laptop bags, ladies bags, clutches,
               </p>
          </div>
 
+
+         <div className='row mt-5 text-center'>
+            <h2>CEO:</h2> <p>Mr.AR Hussain & Md Aabir Rahman</p>
+         </div>
+
        </div>
 
 

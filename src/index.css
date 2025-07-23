@@ -167,4 +167,5 @@ button:focus-visible {
   color: rgb(237, 192, 12) !important;
     text-decoration: underline !important;
      text-underline-offset: 8px; /* Adjust the gap */
+     font-weight:900;
 }
