@@ -20,6 +20,7 @@ import Shoes from './home/shoes.jsx'
 import Bags from './home/bags.jsx'
 import Footer from './footer.jsx'
 import Contact from './contact.jsx'
+import Form from './form.jsx'
 
 
 let router = createBrowserRouter([
@@ -38,6 +39,8 @@ let router = createBrowserRouter([
    { path:"/About" , element :<> <Navbar/> <About/> <Footer/> </> },
   
    { path:"/Contact" , element :<> <Navbar/> <Contact/> <Footer/> </> },
+
+    { path:"/Form" , element :<> <Navbar/> <Form/> <Footer/> </> },
   
  
  

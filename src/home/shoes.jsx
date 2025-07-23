@@ -1,3 +1,6 @@
+
+import { NavLink} from 'react-router-dom';
+
 function Shoes() {
     return ( 
 
@@ -13,7 +16,7 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/1.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink to="/Form">buy</NavLink>
   </div>
 </div>
             </div>
