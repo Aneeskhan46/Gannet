@@ -18,11 +18,12 @@ import About from './about.jsx'
 
 import Shoes from './home/shoes.jsx'
 import Bags from './home/bags.jsx'
+import Footer from './footer.jsx'
 
 
 let router = createBrowserRouter([
 
-  { path:"/" , element :( <>  <Navbar/> <Home/> </>),
+  { path:"/" , element :( <>  <Navbar/> <Home/> <Footer/> </>),
 
      children: [
       { index: true, element: <Shoes /> },         // 👈 default for /Post route
@@ -33,10 +34,10 @@ let router = createBrowserRouter([
 
 },
 
-   { path:"/About" , element :<> <Navbar/> <About/> </> },
+   { path:"/About" , element :<> <Navbar/> <About/> <Footer/> </> },
    { path:"/Skills" , element :<> <Navbar/>   </> },
    { path:"/Acheivemnt" , element :<> <Navbar/>   </> },
-   { path:"/Contact" , element :<> <Navbar/> </> },
+   { path:"/Contact" , element :<> <Navbar/> <Footer/> </> },
   
  
  
