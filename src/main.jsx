@@ -19,6 +19,7 @@ import About from './about.jsx'
 import Shoes from './home/shoes.jsx'
 import Bags from './home/bags.jsx'
 import Footer from './footer.jsx'
+import Contact from './contact.jsx'
 
 
 let router = createBrowserRouter([
@@ -35,9 +36,8 @@ let router = createBrowserRouter([
 },
 
    { path:"/About" , element :<> <Navbar/> <About/> <Footer/> </> },
-   { path:"/Skills" , element :<> <Navbar/>   </> },
-   { path:"/Acheivemnt" , element :<> <Navbar/>   </> },
-   { path:"/Contact" , element :<> <Navbar/> <Footer/> </> },
+  
+   { path:"/Contact" , element :<> <Navbar/> <Contact/> <Footer/> </> },
   
  
  

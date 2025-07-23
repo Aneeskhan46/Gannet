@@ -39,14 +39,9 @@ function Navbar() {
               <NavLink to="/About" id="nav-link" className={((e)=>{return e.isActive ? "gradient" : ""})} onClick={closeNavbar}>About</NavLink>
             </li>
             <li className="nav-item mb-3">
-              <NavLink to="/Skills" id="nav-link" className={((e)=>{return e.isActive ? "gradient" : ""})} onClick={closeNavbar}>Contact</NavLink>
+              <NavLink to="/Contact" id="nav-link" className={((e)=>{return e.isActive ? "gradient" : ""})} onClick={closeNavbar}>Contact</NavLink>
             </li>
-            <li className="nav-item mb-3">
-              <NavLink to="/Acheivemnt" id="nav-link" className={((e)=>{return e.isActive ? "gradient" : ""})} onClick={closeNavbar}>Achievements</NavLink>
-            </li>
-            <li className="nav-item mb-3">
-              <NavLink to="/Contact" id="nav-link"  className={((e)=>{return e.isActive ? "gradient" : ""})}  onClick={closeNavbar}>Contact</NavLink>
-            </li>
+           
           </ul>
         </div>
       </div>
