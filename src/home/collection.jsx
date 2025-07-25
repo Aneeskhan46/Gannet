@@ -11,7 +11,7 @@ function Collection() {
   backgroundColor: "#A16D28",
   width: "100%",
   marginLeft: "0",
-  marginRight: "0", textAlign:"center",  position: "sticky", zIndex: "1000",top: "0" }}>
+  marginRight: "0", textAlign:"center",  position: "sticky", top: "0", zIndex: "1000", }}>
               
               
               <div className="col-6 p-2" style={{ display: "flex", justifyContent: "center" }}>

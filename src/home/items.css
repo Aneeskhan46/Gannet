@@ -1,0 +1,15 @@
+.btnorder{
+    background-color:#A16D28;
+    color: white;
+    border: 200px;
+    border-radius: 20px;
+    width: 100px;
+    padding: 9px;
+    font-weight: 900;
+}
+
+.itemnavlink{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}

@@ -1,7 +1,16 @@
 
 import { NavLink} from 'react-router-dom';
 
+import "./items.css"
+
+
+
 function Shoes() {
+
+
+
+
+
     return ( 
 
 
@@ -15,8 +24,11 @@ function Shoes() {
             <div className="col mt-3" style={{ display:"flex", justifyContent:"center"}}>
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/1.jpg" class="card-img-top" alt="..."/>
-  <div class="card-body">
-        <NavLink to="/Form">buy</NavLink>
+  <div class="card-body" >
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
