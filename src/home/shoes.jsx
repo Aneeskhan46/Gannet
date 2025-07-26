@@ -38,7 +38,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/2.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+           <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -48,7 +51,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/3.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+           <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -59,7 +65,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/4.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+     <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -70,7 +79,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/5.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+     <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -81,7 +93,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/6.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+     <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -92,7 +107,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/7.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+     <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -102,7 +120,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/8.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+     <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -114,7 +135,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/9.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+     <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -125,7 +149,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/10.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+     <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -139,7 +166,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/11.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+     <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -149,8 +179,11 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/12.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
-  </div>
+         <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
+   </div>
 </div>
             </div>
 
@@ -159,7 +192,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/13.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -170,7 +206,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/14.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -181,7 +220,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/15.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+       <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -192,7 +234,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/16.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+       <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -203,7 +248,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/17.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -213,7 +261,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/18.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+       <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -225,7 +276,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/19.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+       <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -236,7 +290,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/20.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -249,7 +306,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/21.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+       <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -259,7 +319,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/22.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+       <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -269,7 +332,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/23.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+       <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -280,7 +346,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/24.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -291,7 +360,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/25.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+       <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -302,7 +374,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/26.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -313,7 +388,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/27.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -323,7 +401,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/28.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -335,7 +416,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/29.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>
@@ -346,7 +430,10 @@ function Shoes() {
                 <div class="card" style={{width: "18rem"}}>
   <img src="images/shoes/30.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    
+        <NavLink className="itemnavlink"  to="/Form">
+              <button  className='btnorder' >Order</button>  
+               {/* button style is in up style tag */}
+        </NavLink>
   </div>
 </div>
             </div>

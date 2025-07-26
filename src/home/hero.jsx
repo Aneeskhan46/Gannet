@@ -9,7 +9,7 @@ function Hero() {
     <div className="container p-3">
       <div
         className="row row-cols-1 row-cols-lg-1 mt-4"
-        style={{ backgroundColor: "#A16D28" }}
+        style={{ backgroundColor: "#A16D28" , height:"580px"}}
       >
         <div className="col p-5 text-center">
           <div className="scroll-wrapper">
